@@ -1,0 +1,87 @@
+{
+  "title": "New Life College – Excellence in Teaching, Research and Service",
+  "url": "https://newlifecollege.edu.gh",
+  "content": {
+    "welcome_message": "Welcome to New Life College – an institution where vibrant academic environment and Christian higher education come together to develop strong moral and professional characters.",
+    "stats": {
+      "current_students": 280,
+      "graduates": 1000,
+      "countries_reached": 7,
+      "year_established": 2004
+    },
+    "why_study_here": [
+      {
+        "topic": "Academic Excellence",
+        "description": "We promote academic excellence, encouraging intellectual curiosity and lifelong learning through our curated programs."
+      },
+      {
+        "topic": "Christian Values",
+        "description": "We uphold Christian values and integrate faith into academic pursuits, nurturing leaders who impact society positively."
+      },
+      {
+        "topic": "Professionalism",
+        "description": "We instill professional skills and ethics, providing real-world experiences for our students."
+      },
+      {
+        "topic": "Character Development",
+        "description": "We focus on character development, fostering virtues like integrity and resilience."
+      },
+      {
+        "topic": "Discipline",
+        "description": "We emphasize the transformative power of discipline in personal and academic achievements."
+      },
+      {
+        "topic": "Skills for Life",
+        "description": "We equip our graduates with critical life skills like emotional intelligence and digital literacy."
+      }
+    ],
+    "departments": [
+      "Computer Science",
+      "Registered Midwifery",
+      "Theology & Missions"
+    ],
+    "testimonials": [
+      {
+        "name": "Jude",
+        "role": "Desktop Publishing Officer",
+        "feedback": "This institution offers a dynamic educational environment with hands-on learning comprising 70% practical work."
+      },
+      {
+        "name": "Joe",
+        "role": "Entrepreneur",
+        "feedback": "Learning at NLC enabled me to launch my career as a web developer and create an online marketplace."
+      },
+      {
+        "name": "Comfort",
+        "role": "Midwifery Student",
+        "feedback": "The character development sessions have profoundly impacted my personal and professional life."
+      },
+      {
+        "name": "Patrick",
+        "role": "Computer Science Student",
+        "feedback": "The character development aspect of New Life College has prepared me to lead in my working environment."
+      },
+      {
+        "name": "Stanley",
+        "role": "Computer Science Student",
+        "feedback": "The college not only teaches programming but also prepares us for future studies and careers."
+      },
+      {
+        "name": "Abigail",
+        "role": "Midwifery Student",
+        "feedback": "The lecturers are punctual, and the clinical site opportunities are excellent."
+      },
+      {
+        "name": "Bartholomew",
+        "role": "Basic School Teacher",
+        "feedback": "The morning devotions challenged me to live a faithful life and pursue higher education in ICT."
+      }
+    ],
+    "call_to_action": "Start your new life today – Join our community of students from all over Africa."
+  },
+  "contact": {
+    "phone": ["+233(0)243045440", "+233(0)544436639"],
+    "email": "info@newlifecollege.edu.gh",
+    "address": "P.O. Box 308 ER, Tamale – Northern Region, Ghana, West Africa"
+  }
+}

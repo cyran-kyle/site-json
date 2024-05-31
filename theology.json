@@ -1,0 +1,76 @@
+{
+  "title": "Department of Theology and Missions",
+  "url": "https://newlifecollege.edu.gh/academics/theology-and-missions/",
+  "content": {
+    "overview": "The Department of Theology and Missions offers comprehensive programs designed to prepare students for Christian ministry, including teaching, pastoral roles, and evangelism. The department emphasizes spiritual growth, intellectual development, and professional competence.",
+    "programs": [
+      {
+        "degree": "BA in Theology",
+        "duration": "2-4 years",
+        "description": "This program is aimed at individuals involved in Christian ministry such as Bible teachers, pastors, evangelists, and lay people seeking advanced knowledge of theology to function effectively in church and society.",
+        "curriculum": [
+          {
+            "year": 1,
+            "semesters": [
+              {
+                "semester": 1,
+                "courses": [
+                  {"course_code": "BNT131", "title": "Christian Origins I", "credits": 3},
+                  {"course_code": "BOT131", "title": "Old Testament History I", "credits": 3},
+                  {"course_code": "REL131", "title": "African Traditional Religion", "credits": 3},
+                  {"course_code": "AWR133", "title": "Introduction to Computing & Academic Resources on the Internet", "credits": 3},
+                  {"course_code": "THE131", "title": "Bible Backgrounds", "credits": 3},
+                  {"course_code": "AWR132", "title": "Academic Writing and Library Resources", "credits": 3}
+                ]
+              },
+              {
+                "semester": 2,
+                "courses": [
+                  {"course_code": "BNT132", "title": "Christian Origins II", "credits": 3},
+                  {"course_code": "BOT132", "title": "Old Testament History II", "credits": 3},
+                  {"course_code": "REL132", "title": "Origins and Development of Islam", "credits": 3},
+                  {"course_code": "PMN132", "title": "Introduction to Conflict Resolution & Management", "credits": 3},
+                  {"course_code": "THE132", "title": "Biblical Hermeneutics", "credits": 3},
+                  {"course_code": "AWR131", "title": "English Language", "credits": 3}
+                ]
+              }
+            ]
+          },
+          {
+            "year": 2,
+            "semesters": [
+              {
+                "semester": 1,
+                "courses": [
+                  {"course_code": "SSS231", "title": "Introduction to Philosophy", "credits": 3},
+                  {"course_code": "BNT231", "title": "Elementary Greek I", "credits": 3},
+                  {"course_code": "BOT231", "title": "Elementary Hebrew I", "credits": 3},
+                  {"course_code": "THE231", "title": "Systematic Theology I", "credits": 3},
+                  {"course_code": "PMN231", "title": "Christian Homiletics", "credits": 3},
+                  {"course_code": "PM Elective 1", "title": "Elective", "credits": 3}
+                ]
+              },
+              {
+                "semester": 2,
+                "courses": [
+                  {"course_code": "PMN232", "title": "Foundations of Christian Education", "credits": 3},
+                  {"course_code": "BNT232", "title": "Pauline Epistles I", "credits": 3},
+                  {"course_code": "BNT233", "title": "Elementary Greek II", "credits": 3},
+                  {"course_code": "BOT233", "title": "Elementary Hebrew II", "credits": 3},
+                  {"course_code": "THE232", "title": "Systematic Theology II", "credits": 3},
+                  {"course_code": "CHH232", "title": "Church History I (Early Church History)", "credits": 3},
+                  {"course_code": "PM Elective 2", "title": "Elective", "credits": 3}
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "phone": ["+233(0)243045440", "+233(0)544436639"],
+    "email": "info@newlifecollege.edu.gh",
+    "address": "P.O. Box 308 ER, Tamale – Northern Region, Ghana, West Africa"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "title": "Department of Registered Midwifery",
+  "url": "https://newlifecollege.edu.gh/academics/midwifery/",
+  "content": {
+    "program_description": "The Registered Midwifery program offers a 3-year diploma course designed to equip students with the knowledge, skills, and attitudes necessary for meeting reproductive health needs. The program emphasizes community engagement, physical and social sciences, and the ethical elements of midwifery practice.",
+    "curriculum": [
+      {
+        "year": 1,
+        "semesters": [
+          {
+            "semester": 1,
+            "courses": [
+              {
+                "code": "HAP 111",
+                "title": "Human Anatomy and Physiology I",
+                "theory_hours": 3,
+                "practical_hours": 3,
+                "credits": 3
+              },
+              {
+                "code": "BNS 111",
+                "title": "Basic Nursing",
+                "theory_hours": 2,
+                "practical_hours": 6,
+                "credits": 3
+              },
+              {
+                "code": "MIP 111",
+                "title": "Microbiology and Infection Prevention/Control",
+                "theory_hours": 2,
+                "practical_hours": 2,
+                "credits": 2
+              },
+              {
+                "code": "TCM 111",
+                "title": "Therapeutic Communication",
+                "theory_hours": 2,
+                "practical_hours": 6,
+                "credits": 3
+              },
+              {
+                "code": "ADJ 111",
+                "title": "Professional Adjustment in Midwifery",
+                "theory_hours": 2,
+                "practical_hours": 2,
+                "credits": 2
+              },
+              {
+                "code": "NMI 111",
+                "title": "Nursing Informatics",
+                "theory_hours": 1,
+                "practical_hours": 6,
+                "credits": 2
+              },
+              {
+                "code": "FED 111",
+                "title": "First Aid, Emergency and Disaster Management",
+                "theory_hours": 2,
+                "practical_hours": 6,
+                "credits": 3
+              }
+            ]
+          },
+          {
+            "semester": 2,
+            "courses": [
+              {
+                "code": "HAP 122",
+                "title": "Human Anatomy and Physiology II",
+                "theory_hours": 3,
+                "practical_hours": 3,
+                "credits": 3
+              },
+              {
+                "code": "NAD 122",
+                "title": "Nutrition and Dietetics",
+                "theory_hours": 2,
+                "practical_hours": 6,
+                "credits": 3
+              },
+              {
+                "code": "BHS 122",
+                "title": "Behavioural Sciences",
+                "theory_hours": 3,
+                "practical_hours": 3,
+                "credits": 3
+              },
+              {
+                "code": "CPA 122",
+                "title": "Child Protection and Abuse",
+                "theory_hours": 2,
+                "practical_hours": 6,
+                "credits": 3
+              },
+              {
+                "code": "NPN 122",
+                "title": "Nursing Process",
+                "theory_hours": 2,
+                "practical_hours": 6,
+                "credits": 2
+              },
+              {
+                "code": "STA 122",
+                "title": "Statistics",
+                "theory_hours": 2,
+                "practical_hours": 2,
+                "credits": 2
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "phone": ["+233(0)243045440", "+233(0)544436639"],
+    "email": "info@newlifecollege.edu.gh",
+    "address": "P.O. Box 308 ER, Tamale – Northern Region, Ghana, West Africa"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Donate",
+  "url": "https://ngo.newlifecollege.edu.gh/donate/",
+  "content": {
+    "donation_projects": [
+      {
+        "name": "Furthering Instructor Education",
+        "description": "Invest in the professional development of educators to enhance their skills and knowledge, empowering them to deliver high-quality education."
+      },
+      {
+        "name": "Student Scholarships",
+        "description": "Support talented students by donating towards scholarships that cover tuition fees, textbooks, and other educational expenses."
+      },
+      {
+        "name": "New Construction",
+        "description": "Contribute to building a state-of-the-art campus outside the city limits to provide a better learning environment and dormitory facilities."
+      }
+    ],
+    "donation_methods": [
+      {
+        "method": "MTN Mobile Money",
+        "details": "Number: 0241056226. Please use the respective reference number for your donation purpose."
+      },
+      {
+        "method": "Direct Deposit/Rapid Transfer at Zenith Bank",
+        "details": {
+          "account_name": "NEWLIFE COLLEGE",
+          "account_number": "6011108334",
+          "bank": "Zenith Bank Ltd",
+          "branch": "TAMALE",
+          "currency": "Ghanaian Cedi"
+        }
+      },
+      {
+        "method": "Wire Transfer",
+        "details": {
+          "swift_code": "ZEBGHAC",
+          "account_name": "NEWLIFE COLLEGE",
+          "account_number": "6011108334",
+          "bank": "Zenith Bank, Tamale-Ghana",
+          "branch": "TAMALE",
+          "currency": "US Dollar"
+        }
+      }
+    ],
+    "volunteering_info": "Inviting volunteers to teach at our college or help in constructing new buildings. Volunteers contribute significantly to student growth and campus development."
+  },
+  "contact": {
+    "phone": ["+233(0)243045440", "+233(0)544436639"],
+    "email": "info@newlifecollege.edu.gh",
+    "address": "P.O. Box 308 ER, Tamale – Northern Region, Ghana, West Africa"
+  }
+}

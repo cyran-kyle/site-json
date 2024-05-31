@@ -1,0 +1,197 @@
+{
+  "title": "Department of Computer Science",
+  "url": "https://newlifecollege.edu.gh/academics/computer-science/",
+  "content": {
+    "overview": "Computer Science and Information Technology are integral to modern life, influencing education, work, socialization, and various sectors like finance, government, business, healthcare, and more. These fields play a vital role in developing and supporting the technology systems that underpin our daily activities and drive progress in diverse industries.",
+    "programs_offered": [
+      {
+        "name": "Diploma in Computer Science",
+        "details": "Focuses on providing skills in computing, enabling graduates to find employment in government, private sectors, or become entrepreneurs.",
+        "curriculum": [
+          {
+            "year": 1,
+            "trimester": 1,
+            "courses": [
+              {
+                "code": "DCS 101",
+                "title": "Typing",
+                "theory_hours": 1,
+                "practical_hours": 2,
+                "credits": 3
+              },
+              {
+                "code": "DCS 103",
+                "title": "Information Technology",
+                "theory_hours": 2,
+                "practical_hours": 2,
+                "credits": 3
+              },
+              {
+                "code": "DCS 105",
+                "title": "Internet Technologies",
+                "theory_hours": 2,
+                "practical_hours": 2,
+                "credits": 3
+              },
+              {
+                "code": "DCS 107",
+                "title": "Microsoft Office Productivity Tools",
+                "theory_hours": 2,
+                "practical_hours": 2,
+                "credits": 3
+              },
+              {
+                "code": "DCS 109",
+                "title": "Principles of Programming",
+                "theory_hours": 2,
+                "practical_hours": 2,
+                "credits": 3
+              },
+              {
+                "code": "DCS 111",
+                "title": "Operating System",
+                "theory_hours": 2,
+                "practical_hours": 2,
+                "credits": 3
+              },
+              {
+                "code": "DBS 113",
+                "title": "Business Communication",
+                "theory_hours": 2,
+                "practical_hours": 2,
+                "credits": 3
+              }
+            ]
+          },
+          {
+            "year": 1,
+            "trimester": 2,
+            "courses": [
+              {
+                "code": "DCS 102",
+                "title": "Object Oriented Programming (C++)",
+                "theory_hours": 2,
+                "practical_hours": 2,
+                "credits": 3
+              },
+              {
+                "code": "DCS 104",
+                "title": "Discrete Mathematics",
+                "theory_hours": 2,
+                "practical_hours": 2,
+                "credits": 3
+              },
+              {
+                "code": "DBS 106",
+                "title": "Principles of Financial Accounting",
+                "theory_hours": 2,
+                "practical_hours": 2,
+                "credits": 3
+              },
+              {
+                "code": "DCS 108",
+                "title": "Computer Graphics",
+                "theory_hours": 2,
+                "practical_hours": 2,
+                "credits": 3
+              },
+              {
+                "code": "DCS 110",
+                "title": "Introduction to Statistics",
+                "theory_hours": 2,
+                "practical_hours": 2,
+                "credits": 3
+              },
+              {
+                "code": "DCS 112",
+                "title": "Digital System & Electronics",
+                "theory_hours": 2,
+                "practical_hours": 2,
+                "credits": 3
+              },
+              {
+                "code": "DCS 131",
+                "title": "Object Oriented Programming (Java)",
+                "theory_hours": 2,
+                "practical_hours": 2,
+                "credits": 3
+              },
+              {
+                "code": "DCS 132",
+                "title": "Computer Hardware",
+                "theory_hours": 2,
+                "practical_hours": 2,
+                "credits": 3
+              },
+              {
+                "code": "DCS 133",
+                "title": "Calculus",
+                "theory_hours": 2,
+                "practical_hours": 2,
+                "credits": 3
+              },
+              {
+                "code": "DBS 134",
+                "title": "Entrepreneurship",
+                "theory_hours": 2,
+                "practical_hours": 2,
+                "credits": 3
+              },
+              {
+                "code": "DCS 135",
+                "title": "Computer Organization & Architecture",
+                "theory_hours": 2,
+                "practical_hours": 2,
+                "credits": 3
+              },
+              {
+                "code": "DCS 136",
+                "title": "Introduction to Embedded Systems & IoT",
+                "theory_hours": 2,
+                "practical_hours": 2,
+                "credits": 3
+              },
+              {
+                "code": "DCS 137",
+                "title": "Database Management Systems",
+                "theory_hours": 2,
+                "practical_hours": 2,
+                "credits": 3
+              },
+              {
+                "code": "DCS 138",
+                "title": "Web Development",
+                "theory_hours": 2,
+                "practical_hours": 2,
+                "credits": 3
+              },
+              {
+                "code": "DCS 139",
+                "title": "Software Testing and Quality Assurance",
+                "theory_hours": 2,
+                "practical_hours": 2,
+                "credits": 3
+              },
+              {
+                "code": "DCS 140",
+                "title": "Network Security",
+                "theory_hours": 2,
+                "practical_hours": 2,
+                "credits": 3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "BSc. Computer Science",
+        "details": "A comprehensive program aimed at providing a foundational education in computer science, information systems, and information technology. Prepares students for a wide range of computing careers."
+      }
+    ]
+  },
+  "contact": {
+    "phone": ["+233(0)243045440", "+233(0)544436639"],
+    "email": "info@newlifecollege.edu.gh",
+    "address": "P.O. Box 308 ER, Tamale – Northern Region, Ghana, West Africa"
+  }
+}

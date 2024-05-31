@@ -1,0 +1,14 @@
+{
+  "title": "Contact",
+  "url": "https://newlifecollege.edu.gh/contact/",
+  "content": {
+    "address": "Newlife College, Tamale Post Box 308 ER, Northern Region, Tamale, Ghana",
+    "phone": ["+233(0)243045440", "+233(0)544436639"],
+    "email": "info@newlifecollege.edu.gh",
+    "operating_hours": {
+      "Monday-Saturday": "8:30 am - 5:30 pm",
+      "Sunday": "Closed"
+    },
+    "additional_info": "Fill the form on our website to let us know you and your needs better."
+  }
+}
